@@ -7,11 +7,14 @@
   /* align-items: center; */
   padding-left: 30px;
 }
-p {
+div {
   border: 1px solid rgba(0, 0, 0, 0.478);
   box-shadow: black;
   padding: 20px;
-  text-align: right;
+  
+}
+p{
+	text-align: right;
   font-style: italic;
 }
 .item {
