@@ -12,6 +12,7 @@
 	margin-bottom:20px
 }
 
-.author {
+p .author {
   text-align: right;
+	font-style: italic;
 }
